@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  margin: 100px 24px;
+}
+.form-control-wrapper {
+  display: flex;
+  align-items: center;
+  margin-block: 24px;
+}
+
+.table-wrapper {
+  overflow: auto;
+}
